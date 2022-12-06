@@ -1,0 +1,10 @@
+github.com/Raptorik/mywebserver v0.0.0-20221129180554-2fe2ba2f74f0 h1:viA+sefYhLL8YbwI3MUOiLp5I/v3ZiBzr4/GyTyAKTU=
+github.com/Raptorik/mywebserver v0.0.0-20221129180554-2fe2ba2f74f0/go.mod h1:w24yFucFTFmm5LRvfJoJ3ih3+CRpF8H4l13MIEDY2Bw=
+github.com/Raptorik/mywebserver v0.0.0-20221201183446-5ffcdb00220f h1:dSlpQ+rp6wBtEacD2yk5OsqeMOmz27oCn2wE18p40OM=
+github.com/Raptorik/mywebserver v0.0.0-20221201183446-5ffcdb00220f/go.mod h1:w24yFucFTFmm5LRvfJoJ3ih3+CRpF8H4l13MIEDY2Bw=
+github.com/Raptorik/mywebserver v0.0.0-20221202160052-045620536a19 h1:kxm27Z2wGdvf7Ql8tfyDkF9VZVkcQ/YPR6JIgwauxsU=
+github.com/Raptorik/mywebserver v0.0.0-20221202160052-045620536a19/go.mod h1:w24yFucFTFmm5LRvfJoJ3ih3+CRpF8H4l13MIEDY2Bw=
+github.com/Raptorik/mywebserver v0.0.0-20221206083122-c9cbcf5f2ad6 h1:WTeG3Kku51C5BdjQoQg8S6wxT/9SSGcGSJTtLXgXqeg=
+github.com/Raptorik/mywebserver v0.0.0-20221206083122-c9cbcf5f2ad6/go.mod h1:w24yFucFTFmm5LRvfJoJ3ih3+CRpF8H4l13MIEDY2Bw=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
